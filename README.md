@@ -1,3 +1,4 @@
 # projekt
 az oszt√°ly k√∂z√∂s projektje
 "letîltÇs sikeres" 
+"mani" 
