@@ -1,4 +1,2 @@
 # projekt
-az osztály közös projektje
-"let�lt�s sikeres" 
-"mani" 
+## Kedvenc tárgyaim
